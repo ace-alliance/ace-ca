@@ -1,6 +1,6 @@
 # Setup directory
 
-Clone https://raw.githubusercontent.com/ace-alliance/ace-ca/master
+`git clone https://github.com/ace-alliance/ace-ca`
 
 # Create CA
 
